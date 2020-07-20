@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg10293" viewBox="0 0 85.015 120.85" version="1.1">
+  <defs id="defs10295">
+    <clipPath id="clipPath5479" clipPathUnits="userSpaceOnUse">
+      <path id="path5481" d="m442.47 277.27h20.588v-31.932h-20.588v31.932z"/>
+    </clipPath>
+  </defs>
+  <g id="layer1" transform="translate(-332.49 -471.93)">
+    <g id="g4255" transform="matrix(1.25 0 0 -1.25 332.49 579.8)">
+      <path id="path4257" d="m0 0s33.297 97.057 68.012 0-30.461-23.376-68.012 0" fill="#eb4a3f"/>
+    </g>
+    <g id="g4259" transform="matrix(1.25 0 0 -1.25 376.78 481.95)">
+      <path id="path4261" d="m0 0c3.257 8.894 13.087 10.2 19.781 4.816 6.598-5.302 4.603-12.425 4.978-19.754 0.154-2.923 2.111-5.188 2.825-7.945 0.677-2.608-0.105-4.765-0.694-7.286-1.444-6.161 6.013-11.17 3.725-16.832-1.626-4.026-5.856-0.253-8.035 1.278-4.887 3.432-4.861 0.702-9.548 4.612-4.019 3.348-8.626 10.571-14.373 7.54-4.222-2.229 8.602 3.396 5.59 0.038-3.858-4.294-8.839-4.558-14.215-5.748-2.405-0.531-7.318-2.394-9.429-3.679-0.541-0.329-8.929-2.591-8.828-2.738-1.964 2.886-0.912 2.599-0.121 5.493 1.614 5.892 2.74 12.779 2.354 19.255-0.392 6.613-2.864 13.712 0.1 20.069 2.589 5.559 9.978 6.167 15.199 5.006 1.041-0.228 11.175-2.802 10.691-4.125" fill="#373535"/>
+    </g>
+    <g id="g4263" transform="matrix(1.25 0 0 -1.25 360.34 497.08)">
+      <path id="path4265" d="m0 0s-14.663-23.894 5.165-29.608 4.79-1.371 13.238-0.854c13.5 0.832 19.165 13.386 6.202 32.408 0 0-5.665-9.552-8.231-10.236 0 0 0.418 6.965-3.645 9.32 0 0-5.723-7.767-8.612-8.538 0 0-1.124 5.77-4.117 7.508" fill="#f5e3bb"/>
+    </g>
+    <g id="g4267" transform="matrix(1.25 0 0 -1.25 397.63 518.8)">
+      <path id="path4269" d="m0 0c0-1.631-2.325-2.952-5.195-2.952s-5.197 1.321-5.197 2.952c0 1.63 2.327 2.953 5.197 2.953s5.195-1.323 5.195-2.953" fill="#f6c589"/>
+    </g>
+    <g id="g4271" transform="matrix(1.25 0 0 -1.25 368.11 518.8)">
+      <path id="path4273" d="m0 0c0-1.631-2.325-2.952-5.195-2.952-2.869 0-5.195 1.321-5.195 2.952 0 1.63 2.326 2.953 5.195 2.953 2.87 0 5.195-1.323 5.195-2.953" fill="#f6c589"/>
+    </g>
+    <g id="g4275" transform="matrix(1.25 0 0 -1.25 382 511.36)">
+      <path id="path4277" d="m0 0s4.017 5.899 9.922 0" stroke="#373535" fill="none"/>
+    </g>
+    <g id="g4279" transform="matrix(1.25 0 0 -1.25 371.36 511.42)">
+      <path id="path4281" d="m0 0s-3.956 5.942-9.922 0.099" stroke="#373535" fill="none"/>
+    </g>
+    <g id="g4283" transform="matrix(1.25 0 0 -1.25 365.13 525.79)">
+      <path id="path4285" d="m0 0s9.398-7.825 19.208 0" stroke="#373535" fill="none"/>
+    </g>
+    <path id="path4863" d="m343.53 504.96h-3.73v-4.89h3.73v4.89z" fill="#00b0f0"/>
+    <path id="path4865" d="m409.55 504.96h3.73v-4.89h-3.73v4.89z" fill="#00b0f0"/>
+    <g id="g4867" transform="matrix(1.25 0 0 -1.25 350.86 499.68)">
+      <path id="path4869" d="m0 0s4.206-5.258-0.525-17.351-12.093 0.527-11.041 6.31 0 11.041 11.566 11.041" fill="#0077bd"/>
+    </g>
+    <g id="g4871" transform="matrix(1.25 0 0 -1.25 346.29 500.82)">
+      <path id="path4873" d="m0 0s1.981-5.942-0.494-12.709 0.765 7.437-1.6 11.775 0.705 0.552 2.094 0.934" fill="#edba54"/>
+    </g>
+    <g id="g4875" transform="matrix(1.25 0 0 -1.25 337.16 514.25)">
+      <path id="path4877" d="m0 0s-0.961 0.616 0.1 2.489-0.371 1.307-0.938 0.124-0.517-0.912-0.172-2.637c0 0 0.616-0.887 1.01 0.024" fill="#bec0c2"/>
+    </g>
+    <g id="g4879" transform="matrix(1.25 0 0 -1.25 349.9 499.66)">
+      <path id="path4881" d="m0 0s0.647 2.119 2.002 0.059 3.945-6.891-1.117-17.724-1.001-0.999-1.473 0.296c0 0 5.182 10.069 0.588 17.369" fill="#737577"/>
+    </g>
+    <g id="g4883" transform="matrix(1.25 0 0 -1.25 402.22 499.68)">
+      <path id="path4885" d="m0 0s-4.206-5.258 0.525-17.351 12.092 0.527 11.041 6.31 0 11.041-11.566 11.041" fill="#0077bd"/>
+    </g>
+    <g id="g4887" transform="matrix(1.25 0 0 -1.25 406.78 500.82)">
+      <path id="path4889" d="m0 0s-1.98-5.942 0.495-12.709-0.766 7.437 1.6 11.775-0.706 0.552-2.095 0.934" fill="#edba54"/>
+    </g>
+    <g id="g4891" transform="matrix(1.25 0 0 -1.25 415.92 514.25)">
+      <path id="path4893" d="m0 0s0.962 0.616-0.099 2.489 0.37 1.307 0.937 0.124 0.517-0.912 0.173-2.637c0 0-0.616-0.887-1.011 0.024" fill="#bec0c2"/>
+    </g>
+    <g id="g4895" transform="matrix(1.25 0 0 -1.25 403.17 499.66)">
+      <path id="path4897" d="m0 0s-0.647 2.119-2.001 0.059-3.946-6.891 1.117-17.724 1.001-0.999 1.473 0.296c0 0-5.182 10.069-0.589 17.369" fill="#737577"/>
+    </g>
+    <g id="g4899" transform="matrix(1.25 0 0 -1.25 342.16 500.01)">
+      <path id="path4901" d="m0 0s24.448 43.77 56.19-0.986-27.405 50.672-56.19 0.986" fill="#0077bd"/>
+    </g>
+    <g id="g4903" transform="matrix(1.25 0 0 -1.25 351.4 514.34)">
+      <path id="path4905" d="m0 0c1.35-2.34 0.729-5.227-1.387-6.446-2.115-1.219-4.924-0.312-6.273 2.03-1.35 2.34-0.729 5.225 1.387 6.444 2.114 1.221 4.923 0.313 6.273-2.028" fill="#f5e3bb"/>
+    </g>
+    <g id="g4907" transform="matrix(1.25 0 0 -1.25 346.2 520.86)">
+      <path id="path4909" d="m0 0c-1.247-1.205-0.419-7.435-0.3-8.936 0.279-3.491 1.61-7.378 3.324-10.4 0.559-0.981 1.627-3.169 2.998-3.157 1.632 0.015 3.401 3.68 3.648 4.96 0.263 1.355 0.24 3.063 0.097 4.427-0.549 5.188-3.914 10.258-6.971 14.285 0 0-1.68-0.102-2.796-1.179" fill="#f5e3bb"/>
+    </g>
+    <g id="g4911" transform="matrix(1.25 0 0 -1.25 347.28 542.21)">
+      <path id="path4913" d="m0 0s8.283 2.944 8.258 8.498 5.172-9.384 1.141-13.747-6.122-4.34-9.758 5.018" fill="#eb4a3f"/>
+    </g>
+    <g id="g4915" transform="matrix(1.25 0 0 -1.25 402.99 514.34)">
+      <path id="path4917" d="m0 0c-1.351-2.34-0.729-5.227 1.385-6.446 2.115-1.219 4.925-0.312 6.274 2.03 1.35 2.34 0.73 5.225-1.387 6.444-2.114 1.221-4.922 0.313-6.272-2.028" fill="#f5e3bb"/>
+    </g>
+    <g id="g4919" transform="matrix(1.25 0 0 -1.25 408.18 520.86)">
+      <path id="path4921" d="m0 0c1.247-1.205 0.42-7.435 0.299-8.936-0.278-3.491-1.609-7.378-3.324-10.4-0.557-0.981-1.626-3.169-2.997-3.157-1.632 0.015-3.4 3.68-3.648 4.96-0.262 1.355-0.24 3.063-0.096 4.427 0.549 5.188 3.913 10.258 6.971 14.285 0 0 1.679-0.102 2.795-1.179" fill="#f5e3bb"/>
+    </g>
+    <g id="g4923" transform="matrix(1.25 0 0 -1.25 407.1 542.21)">
+      <path id="path4925" d="m0 0s-8.284 2.944-8.259 8.498-5.172-9.384-1.141-13.747 6.121-4.34 9.757 5.018" fill="#eb4a3f"/>
+    </g>
+    <g id="g5475" transform="matrix(1.25 0 0 -1.25 -214.13 891.04)">
+      <g id="g5483">
+        <g id="g5485" opacity=".5" clip-path="url(#clipPath5479)">
+          <g id="g5487" transform="translate(458.22 275.57)">
+            <path id="path5489" d="m0 0s-20.082-22.111-14.893-25.722c5.19-3.61 10.831-4.512 12.411-4.512 0 0 14.666 40.613 2.482 30.234" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Girl with headphone3</dc:title>
+        <dc:date>2010-11-27T21:31:30</dc:date>
+        <dc:description>Girl with headphone3</dc:description>
+        <dc:source>http://openclipart.org/detail/98467/girl-with-headphone3-by-dcatcherex</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>dcatcherex</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>girl</rdf:li>
+            <rdf:li>happy</rdf:li>
+            <rdf:li>headphone</rdf:li>
+            <rdf:li>listen</rdf:li>
+            <rdf:li>music</rdf:li>
+            <rdf:li>woman</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

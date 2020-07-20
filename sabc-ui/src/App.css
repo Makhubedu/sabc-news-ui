@@ -1,0 +1,136 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+nav {
+    background: linear-gradient(to right, hsla(291, 41%, 47%, 0.322), #3352dbc7);
+    height: 10vh;
+    display: flex;
+}
+
+.main-news {
+    border-radius: 10px;
+    width: 60%;
+}
+
+.card {
+    border-radius: 10px;
+}
+
+.nav-links {
+    display: flex;
+    list-style: none;
+    width: 50%;
+    height: 100%;
+    align-items: center;
+    justify-content: space-around;
+    margin-left: auto;
+}
+
+.logo-header {
+    flex: 1;
+    list-style: none;
+    width: 50%;
+    height: 50%;
+    font-size: large;
+    align-self: center;
+    justify-self: right;
+    margin-left: 5%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.content {
+    color: white;
+    text-decoration: none;
+}
+
+.sweet-loading {
+    margin-top: 10%;
+}
+
+.body-color {
+    background-color: black;
+}
+
+@media screen and (max-width:768px) {
+    .logo-header {
+        height: 50%;
+        font-size: large;
+        font-weight: bold;
+    }
+    .line {
+        height: 3px;
+        width: 30px;
+        background-color: black;
+        margin: 5px;
+    }
+    .line:hover {
+        background-color: aliceblue;
+    }
+    nav {
+        position: relative;
+        z-index: 2;
+    }
+    .humburger {
+        position: absolute;
+        cursor: pointer;
+        right: 5%;
+        top: 50%;
+        transform: translate(-5%, -50%);
+        z-index: 2;
+    }
+    .nav-links {
+        position: fixed;
+        background-color: rgba(0, 0, 0, 0.623);
+        height: 100vh;
+        width: 100%;
+        flex-direction: column;
+        clip-path: circle(100px at 90px -1000px);
+        -webkit-clip-path: circle(100px at 90px -1000px);
+        transition: all 1s ease-out;
+        pointer-events: none;
+    }
+    .nav-links.open {
+        clip-path: circle(1000px at 90px -10px);
+        -webkit-clip-path: circle(1000px at 90px -10px);
+        pointer-events: all;
+    }
+    .landing {
+        flex-direction: column;
+    }
+}
+
+.container-fluid,
+.container {
+    margin-top: 30px;
+}
+
+.more {
+    display: flex;
+}
+
+.nav-links li a {
+    text-decoration: none;
+    font-size: 13px;
+    font-size: .92857rem;
+    letter-spacing: 1px;
+    line-height: 1.30769;
+    text-decoration: none;
+    text-transform: uppercase
+}
+
+.resume {
+    display: none;
+}
+
+.more button {
+    align-self: flex-end;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    font-weight: bold;
+    font-size: medium;
+}
